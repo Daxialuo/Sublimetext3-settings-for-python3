@@ -1,0 +1,9 @@
+ {
+     "disable_keymap_actions": false, // "all"; "html,css"
+     "date_format" : "%d %b %Y %H:%M:%S",
+     "attr": {
+         "author": "DaxiaLuo",
+         "email": "beyondljt@gmail.com",
+         "link": "https://github.com/Daxialuo"
+     }
+ }

@@ -1,0 +1,13 @@
+{
+    "python_interpreter": "/home/luojuntao/anaconda3/bin/python3",
+
+    "suppress_word_completions": true,
+    "suppress_explicit_completions": true,
+    "anaconda_linting": false,
+    "swallow_startup_errors":true,
+    //保存文件后自动pep8格式化
+    "auto_formatting": true,
+
+
+
+}
